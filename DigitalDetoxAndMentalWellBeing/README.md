@@ -87,7 +87,7 @@ Supported Platforms:
 
 ```bash
 # 1. Clone the repository
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/vedikalohiya/digital_detox-1)
 cd digital-detox-project
 
 # 2. Install Flutter dependencies
@@ -176,7 +176,6 @@ digital-detox-project/
 │   ├── services/
 │   └── main.dart
 ├── android/
-├── ios/
 ├── assets/
 ├── pubspec.yaml
 ├── README.md
@@ -220,7 +219,10 @@ User feedback indicates improved productivity and reduced digital fatigue within
 ## Author
 
 **Vedika Lohiya**
-B.Tech CSE
+**Aditi Mane**
+**Vedanti Lavekar**
+**Isha Jadhav**
+B.Tech CSE(B)
 Project Phase I – 2025–26
 
 ---
